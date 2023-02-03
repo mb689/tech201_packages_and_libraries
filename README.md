@@ -19,6 +19,7 @@
 - In Python, Modules are simply files with the “. py” extension containing Python code that can be imported inside another Python Program. In simple terms, we can consider a module to be the same as a code library or a file that contains a set of functions that you want to include in your application.
 - To use modules in python there are two powerful keywords that are used which are `from` or `import`.
 - For example `from math import pi` this imports only the pi function from the math module.
+- To include all the functions in the module you can use the `*` after `import`.
 - Examples of modules:
   - math
   - random
